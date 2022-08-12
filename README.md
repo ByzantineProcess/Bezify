@@ -1,4 +1,4 @@
 # Bezify
 Bezify any webpage.
 ## How to use
-Type in [tinyurl.com/bezify-wiki](tinyurl.com/bezify-wiki) and copy-paste the JavaScript into the browser console inside Developer Tools.
+Type in [tinyurl.com/bezify-wiki](http://tinyurl.com/bezify-wiki) and copy-paste the JavaScript into the browser console inside Developer Tools.
