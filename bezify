@@ -1,0 +1,1 @@
+if(window.location.href.startsWith("https://en.wikipedia.org"))for(var links=document.getElementsByTagName("a"),i=0;i<links.length;i++){(link=links[i]).href="/wiki/Jeff_Bezos"}else for(links=document.getElementsByTagName("a"),i=0;i<links.length;i++){var link;(link=links[i]).href="http://en.wikipedia.org/wiki/Jeff_Bezos"}
